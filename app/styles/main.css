@@ -1,0 +1,10 @@
+body {
+    background: #fafafa;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #333;
+}
+
+canvas {
+    background: url(../images/background.png);
+    background-size: 700px 500px;
+}

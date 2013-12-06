@@ -1,0 +1,10 @@
+{
+  "name": "kingfisher",
+  "version": "0.0.0",
+  "dependencies": {
+    "requirejs": "~2.1.8",
+    "jquery": "~1.10.2",
+    "easeljs": "~0.7.0"
+  },
+  "devDependencies": {}
+}
